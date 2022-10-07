@@ -18,7 +18,7 @@ var UberVizMain = (function() {
 
     function init() {
 
-        console.log("ÜberViz v0.1.0");
+        console.log("テ彙erViz v0.1.0");
 
         if(!Detector.webgl){
             Detector.addGetWebGLMessage();

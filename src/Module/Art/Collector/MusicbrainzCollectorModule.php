@@ -176,7 +176,7 @@ final class MusicbrainzCollectorModule implements CollectorModuleInterface
             'releaseuri' => '',
         ];
         $coverartsites[] = [
-            'name' => 'Encyclopédisque',
+            'name' => 'Encyclop辿disque',
             'domain' => 'encyclopedisque.fr',
             'regexp' => '/http://www.encyclopedisque.fr/images/imgdb/(thumb250|main)/(\d+).jpg/',
             'imguri' => 'http://www.encyclopedisque.fr/images/imgdb/thumb250/$matches[2].jpg',
